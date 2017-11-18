@@ -1,0 +1,34 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+ <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<div class="container">
+
+<header>
+   <h1>Video Game Genres</h1>
+</header>
+<table style="width:100%">
+<tr>
+	<th><a href="indext.html">Home</a></th>
+	<th><a href="Horror.html">Horror</a></th>
+	<th><a href="Fantasy.html">Fantasy</a></th>
+	<th><a href="Platformer.html">Platformer</a></th>
+</tr>
+</table>
+<article>
+  <h1>Shooters</h1>
+  <p>Shooters are the genre of games that have been controversial for the longest period of time.  The amount of blood and gore normally seen in typical shooters are notorious large and have generated massive critism in some people.  However, despite this, these types of games have gathered quite a bit of a following throughout the world.  As such one of the most popular game franchises that most people know about is the Doom franchise.</p>
+  <p> <img src="images/toy-gun.jpeg" alt="hand held toy gun" </p>
+  <p>Click here for a list of controversial games if you are interested:  <a href="http://www.cnn.com/2013/08/26/tech/gaming-gadgets/controversial-violent-video-games/index.html">Controversial</a> Most of the games on this list, which was writen by Doug Gross of CNN on August 26, 2013, are indeed in the shooter category and he explains why the games are controversial way better than I could.</p>
+</article>
+
+<footer>Timothy Hensley</footer>
+
+</div>
+
+</body>
+</html>

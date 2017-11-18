@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<div class="container">
+
+<header>
+   <h1>Video Game Genres</h1>
+</header>
+<table style="width:100%">
+<tr>
+	<th><a href="indext.html">Home</a></th>
+	<th><a href="Fantasy.html">Fantasy</a></th>
+	<th><a href="shooter.html">Shooter</a></th>
+	<th><a href="Platformer.html">Platformer</a></th>
+</tr>
+</table>
+<article>
+  <h1>Horror</h1>
+  <p>Horror is both a classic in both video games and other media throughout the world.  Where you find a game about helping others, you will most likely find a game about escaping a forboding killer.  Most of the genre currently is based around zombies and otherworldly figures.  Most games that focus on such otherworldly figures take inspiration from the works of H.P. Lovecraft and his Cthulu saga.</p>
+  <p>One of the earliest examples is the 1981 Atari 2600 game Haunted House. This was considered to be one of the earliest forms of survival horror focusing on puzzle-solving and evading enemies [1].  Survival horror from that point on would focus mainly on dodging attacks and solving puzzles to continue on.  This of course changed when Infogames released Alone in the Dark which focused more on puzzle-solving instead of evading monsters entirely [2].  With this game being created many players who played it can call it the god father of the grenre.  However, the games that many players associate with Horror is Resident Evil in which some of their games are horror but the recent ones, with the exclusion of Resident Evil Biohazard, can be called third person action.</p>
+
+<h2>References</h2>
+<ol>
+ <li>Jim Sterling (2008-06-09). <a href="http://www.ign.com/articles/2008/06/09/fear-101-a-beginners-guide-to-survival-horror">"Fear 101: A Beginner's Guide to Survival Horror"</a>. IGN.</li>
+ <li>Travis Fahs, <a href="http://www.ign.com/articles/2008/06/23/alone-in-the-dark-restrospective">Alone in the Dark Restrospective</a>, IGN, June 23, 2008</li>
+</article>
+
+<footer>Timothy Hensley</footer>
+
+</div>
+
+</body>
+</html>

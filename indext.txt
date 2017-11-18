@@ -1,0 +1,46 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+ <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<div class="container">
+
+<header>
+   <h1>Video Game Genres</h1>
+</header>
+<table style="width:100%">
+<tr>
+	<th><a href="Horror.html">Horror</a></th>
+	<th><a href="Fantasy.html">Fantasy</a></th>
+	<th><a href="shooter.html">Shooter</a></th>
+	<th><a href="Platformer.html">Platformer</a></th>
+</tr>
+</table>
+<article>
+  <h1>Welcome</h1>
+  <p>Welcome to my simple website that shall work to inform you of the information surrounding some video game genres that exist throughout the world.</p>
+  <p> <img src="images/handheld.jpeg" alt="hand held game system" </p>
+  <p>Here on this website we shall be talking about the video game genres of Horror, Fantasy, Shooter and Platformer game genres/categories</p>
+<p>If you have any advice or input of the website please fill out the section below.</p>
+<form>
+ First name:<br>
+ <input type="text" name="firstname"><br>
+ Last name:<br>
+ <input type="text" name="lastname"><br>
+ <input type="radio name="gender" value="male"> Male<br>
+ <input type="radio" name="gender" value="female"> Female<br>
+ <input type="radio" name="gender" value="other"> Other<br>
+ <button type="submit" value="Submit">Submit</button>
+ <button type="reset" value="Reset">Reset</button>
+</form>
+</article>
+
+<footer>Timothy Hensley</footer>
+
+</div>
+
+</body>
+</html>
